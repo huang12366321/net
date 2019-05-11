@@ -15,6 +15,7 @@ namespace WindowsFormsApp11
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("asd");
         }
     }
 }
